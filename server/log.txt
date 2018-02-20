@@ -1,0 +1,5 @@
+Client IP	Request	Filename	File Size
+127.0.0.1	u	uploads/image_big.jpg	2466926
+127.0.0.1	d	downloads/image_big.jpg	2466926
+127.0.0.1	u	uploads/image_big.jpg	2466926
+127.0.0.1	d	downloads/image_big.jpg	2466926
